@@ -6,7 +6,7 @@ keywords: forensics, stable isotopes, Canada, human geolocation, data analysis
 ---
 
 Momoko Ueda is a PhD candidate at Simon Fraser University. Her research interests include studying stable isotopes in human tissues for forensic geolocation purposes. 
-[curriculum vitae ![CV as pdf]({{ BASE_PATH }}/pages/icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/Ueda_Momoko_CV_2020.pdf)<br/>
+
 
 
 ---
@@ -32,7 +32,7 @@ Momoko Ueda is a PhD candidate at Simon Fraser University. Her research interest
 <div class="navbar">
   <div class="navbar-inner">
       <ul class="nav">
-          <li><a href="{{ BASE_PATH }}/assets/CV.pdf">cv</a></li>
+          <li><a href="{{ BASE_PATH }}/assets/Ueda_Momoko_CV_2020.pdf">cv</a></li>
           <li><a href="https://www.linkedin.com/in/mueda/">LinkedIn</a></li>
           <li><a href="https://twitter.com/Momo_Ueda">Twitter (@Momo_Ueda)</a></li>
       </ul>
