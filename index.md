@@ -22,8 +22,8 @@ Momoko Ueda is a PhD candidate at Simon Fraser University. Her research interest
         </div>
 
         <div class="span2">
-        <a href="../assets/headshot.jpg">
-            <img src="../assets/headshot.jpg"
+        <a href="../assets/1510079962229.jpg">
+            <img src="../assets/1510079962229.jpg"
                   title="Momoko Ueda" alt="Momoko Ueda"/></a>
         </div>
     </div>
