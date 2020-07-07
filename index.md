@@ -1,12 +1,11 @@
 ---
 layout: frontpage
-title: Blue Ham
-description: Blue Ham is a PhD candidate at Broom University. 
-keywords: Blue, Ham, treats, recycling, mail, being a good boy
+title: Momoko Ueda
+description: Momoko Ueda is a PhD student at Simon Fraser University. 
+keywords: forensics, stable isotopes, Canada, human geolocation, data analysis
 ---
 
-Blue Ham is a PhD candidate at Broom University. His research interests include analyzing the effectiveness of treat-based incentives such as recycling and getting the mail, as well as designing new methods to protect humans from the adverse effects of rolling trash receptacles.
-
+Momoko Ueda is a PhD candidate at Simon Fraser University. Her research interests include studying stable isotopes in human tissues for forensic geolocation purposes. 
 [curriculum vitae ![CV as pdf]({{ BASE_PATH }}/pages/icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/CV.pdf)<br/>
 
 
@@ -18,14 +17,14 @@ Blue Ham is a PhD candidate at Broom University. His research interests include 
 
     <div class="row-fluid">
         <div class="span5">
-            Blue Ham<br/>
-            Email: WOOFWOOF@goodboy.com<br/>
+            Momoko Ueda<br/>
+            Email: mueda@sfu.ca<br/>
         </div>
 
         <div class="span2">
         <a href="../assets/headshot.jpg">
             <img src="../assets/headshot.jpg"
-                  title="Blue Ham" alt="Blue Ham"/></a>
+                  title="Momoko Ueda" alt="Momoko Ueda"/></a>
         </div>
     </div>
 </div>
@@ -34,8 +33,8 @@ Blue Ham is a PhD candidate at Broom University. His research interests include 
   <div class="navbar-inner">
       <ul class="nav">
           <li><a href="{{ BASE_PATH }}/assets/CV.pdf">cv</a></li>
-          <li><a href="https://github.com/mbcarlos">GitHub</a></li>
-          <li><a href="https://twitter.com/dog_feelings">Twitter (@dog_feelings)</a></li>
+          <li><a href="https://www.linkedin.com/in/mueda/">LinkedIn</a></li>
+          <li><a href="https://twitter.com/Momo_Ueda">Twitter (@Momo_Ueda)</a></li>
       </ul>
   </div>
 </div>
